@@ -1,0 +1,4 @@
+参考文章：
+http://wdxtub.com/2016/03/30/tmux-guide/
+http://guoqiao.me/post/2016/tmux
+https://gist.github.com/ryerh/14b7c24dfd623ef8edc7
